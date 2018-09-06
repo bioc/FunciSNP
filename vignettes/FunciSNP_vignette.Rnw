@@ -128,7 +128,7 @@ characterized cancer cell lines such as MCF7 (breast cancer), HCT116 (colon
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-To obtain a copy of \Rpackage{FunciSNP}, you will need to install BiocInstaller
+To obtain a copy of \Rpackage{FunciSNP}, you will need to install BiocManager
 via Bioconductor: 
 
 library(BiocManager);
