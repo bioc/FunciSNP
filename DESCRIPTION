@@ -1,7 +1,7 @@
 Package: FunciSNP
 Type: Package
 Title: Integrating Functional Non-coding Datasets with Genetic Association Studies to Identify Candidate Regulatory SNPs
-Version: 1.33.0
+Version: 1.33.1
 Date: 2013-01-19
 Author: Simon G. Coetzee <simon@simoncoetzee.com> and Houtan Noushmehr, PhD <houtan@usp.br>
 Maintainer: Simon G. Coetzee <simon@simoncoetzee.com>
@@ -14,3 +14,4 @@ Description: FunciSNP integrates information from GWAS, 1000genomes and chromati
 License: GPL-3
 URL: http://coetzeeseq.usc.edu/publication/Coetzee_SG_et_al_2012/
 LazyData: yes
+PackageStatus: Deprecated
